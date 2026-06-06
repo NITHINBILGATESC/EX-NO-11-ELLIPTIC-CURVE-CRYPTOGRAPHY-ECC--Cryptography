@@ -1,4 +1,8 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
+## NAME: NITHIN BILGATES C
+## REGISTER NO: 2305001022
+
+
 
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
@@ -99,6 +103,7 @@ return 0;
 
 
 ## Output:
+<img width="911" height="342" alt="Screenshot 2026-06-06 215049" src="https://github.com/user-attachments/assets/c87b5918-e40b-49ba-8961-87b5853a66b5" />
 
 
 
